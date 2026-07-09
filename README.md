@@ -40,7 +40,7 @@ python data.py
 ```
 python lora_t.py
 ```
-### 3 测试
+### 4 测试
 运行代码
 ```
 python test.py
